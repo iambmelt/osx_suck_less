@@ -21,6 +21,7 @@ cd /Applications/;
 # Uninstall Safari.app
 rm -rf Safari.app;
 # Uninstall Mail.app
+rm -rf Mail.app;
 # Uninstall Launchpad.app
 # Uninstall iTunes.app
 
