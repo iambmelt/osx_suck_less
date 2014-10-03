@@ -31,6 +31,7 @@ rm -rf Launchpad.app;
 
 # TODO All this
 # Uninstall Chess.app
+rm -rf Chess.app;
 # Uninstall Game\ Center.app
 # Uninstall Maps.app
 # Uninstall Notes.app
