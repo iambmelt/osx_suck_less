@@ -23,6 +23,7 @@ rm -rf Safari.app;
 # Uninstall Mail.app
 rm -rf Mail.app;
 # Uninstall Launchpad.app
+rm -rf Launchpad.app;
 # Uninstall iTunes.app
 
 # Remove all of the share-to-facebook type bs
