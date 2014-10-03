@@ -17,8 +17,9 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 launchctl unload -w /System/Library/LaunchAgents/com.apple.notificationcenterui.plist;
 killall NotificationCenter;
 
-# TODO Ensure that deleting these won't cause any ill-effects
+cd /Applications/;
 # Uninstall Safari.app
+rm -rf Safari.app;
 # Uninstall Mail.app
 # Uninstall Launchpad.app
 # Uninstall iTunes.app
