@@ -33,7 +33,9 @@ rm -rf Launchpad.app;
 # Uninstall Chess.app
 rm -rf Chess.app;
 # Uninstall Game\ Center.app
+rm -rf Game\ Center.app;
 # Uninstall Maps.app
+rm -rf Maps.app;
 # Uninstall Notes.app
 # Uninstall Photo\ Booth.app
 # Uninstall FaceTime.app
