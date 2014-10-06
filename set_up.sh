@@ -53,6 +53,7 @@ rm -rf Game\ Center.app;
 # Uninstall Maps.app
 rm -rf Maps.app;
 # Uninstall Notes.app
+rm -rf Notes.app;
 # Uninstall Photo\ Booth.app
 # Uninstall FaceTime.app
 # Uninstall Reminders.app
