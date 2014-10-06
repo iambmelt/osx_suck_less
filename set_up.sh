@@ -55,6 +55,7 @@ rm -rf Maps.app;
 # Uninstall Notes.app
 rm -rf Notes.app;
 # Uninstall Photo\ Booth.app
+rm -rf Photo\ Booth.app;
 # Uninstall FaceTime.app
 # Uninstall Reminders.app
 # Uninstall Stickies.app
