@@ -57,6 +57,7 @@ rm -rf Notes.app;
 # Uninstall Photo\ Booth.app
 rm -rf Photo\ Booth.app;
 # Uninstall FaceTime.app
+rm -rf FaceTime.app;
 # Uninstall Reminders.app
 # Uninstall Stickies.app
 # Uninstall TextEdit.app
