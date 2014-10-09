@@ -61,6 +61,7 @@ rm -rf FaceTime.app;
 # Uninstall Reminders.app
 rm -rf Reminders.app;
 # Uninstall Stickies.app
+rm -rf Stickies.app;
 # Uninstall TextEdit.app
 # Uninstall Contacts.app
 
