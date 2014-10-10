@@ -63,5 +63,6 @@ rm -rf Reminders.app;
 # Uninstall Stickies.app
 rm -rf Stickies.app;
 # Uninstall TextEdit.app
+rm -rf TextEdit.app;
 # Uninstall Contacts.app
 
