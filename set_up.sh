@@ -65,4 +65,4 @@ rm -rf Stickies.app;
 # Uninstall TextEdit.app
 rm -rf TextEdit.app;
 # Uninstall Contacts.app
-
+rm -rf Contacts.app;
