@@ -41,7 +41,6 @@ rm -rf Safari.app;
 rm -rf Mail.app;
 # Uninstall Launchpad.app
 rm -rf Launchpad.app;
-# Uninstall iTunes.app
 
 # Remove all of the share-to-facebook type bs
 # Remove as much iCloud as possible
