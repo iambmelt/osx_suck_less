@@ -11,12 +11,12 @@
 
 # TODO patch bash for Shellshock if pre-4.3
 
-# TODO Check for XCode command line tools and if they don't exist install them 
-# so that we don't have to rely on brew to do that for us.
-
 ##
 ## Installs
 ##
+
+# Get the XCode command line tools
+xcode-select --install;
 
 # Install brew
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)";
