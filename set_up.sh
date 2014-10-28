@@ -25,6 +25,7 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 brew install caskroom/cask/brew-cask;
 
 # Install Google Chrome
+brew cask install google-chrome;
 
 ##
 ## Disables
