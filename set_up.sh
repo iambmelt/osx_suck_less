@@ -20,6 +20,10 @@ xcode-select --install;
 
 # Install brew
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)";
+
+# Install cask
+brew install caskroom/cask/brew-cask;
+
 # Install Google Chrome
 
 ##
